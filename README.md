@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on front end for [FlightDealFinder](https://github.com/MAJI-C/FlightSearch)
 
 - 💬 Ask me about **Python**
 
