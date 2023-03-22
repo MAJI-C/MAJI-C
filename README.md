@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **jermolenko.m@gmail.com**
-
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1M8m13CzR96_zUocUAth6JA3UnEhs56Xn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
