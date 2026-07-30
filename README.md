@@ -1,4 +1,4 @@
-## Marina Cozzolino
+## Marina MJ Cozzolino
 
 MSc, University of Amsterdam. I work on multimodal deep learning for sensor
 fusion, specifically what happens to these models when input modalities
