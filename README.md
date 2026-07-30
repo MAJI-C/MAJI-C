@@ -7,13 +7,6 @@ degrade or drop out entirely.
 **MSc thesis** — Adaptive multimodal neural networks under missing modalities. Proposes a distributed multi-node multimodal system, operating under a shared compute budget, in which each level of absence is addressed by a dedicated mechanism: modality absence is compensated locally at each node, node loss is handled by masked cross-station fusion, and compute is distributed across modalities according to estimated per-modality informativeness. Trained across six model variants on the Snellius HPC cluster.
 [→ repo](https://github.com/MAJI-C/ada_mm_nn_missing_modalities)
 
-**Currently** — [whatever is actually true. "Preparing the thesis for
-preprint" is a fine answer.]
-
-**Working with** — Python · PyTorch · NumPy/SciPy · pandas · SLURM / HPC
-
-[LinkedIn] · [email]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marina-jermolenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marina-jermolenko/" height="30" width="40" /></a>
