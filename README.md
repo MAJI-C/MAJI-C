@@ -1,15 +1,18 @@
-<h1 align="center"> Hi there, I'm Marina! 👋 </h1>
-<!-- <h3 align="center">A full stack developer</h3> -->
+## Marina 
 
-<!-- - 🔭 I’m currently working on [SportsTable](https://www.sportstable.xyz/) -->
+MSc, University of Amsterdam. I work on multimodal deep learning for sensor
+fusion, specifically what happens to these models when input modalities
+degrade or drop out entirely.
 
-- 🌱 I’m currently learning **Java Script**
+**MSc thesis** — Adaptive multimodal neural networks under missing modalities. Proposes a distributed multi-node multimodal system, operating under a shared compute budget, in which each level of absence is addressed by a dedicated mechanism: modality absence is compensated locally at each node, node loss is handled by masked cross-station fusion, and compute is distributed across modalities according to estimated per-modality informativeness. Trained across six model variants on the Snellius HPC cluster.
+[→ repo](https://github.com/MAJI-C/ada_mm_nn_missing_modalities)
 
-- 🔭 I am currently developing the front-end interface for [FlightDealFinder.](https://github.com/MAJI-C/FlightSearch)
+**Currently** — [whatever is actually true. "Preparing the thesis for
+preprint" is a fine answer.]
 
-- 💬 Ask me about **Python**
+**Working with** — Python · PyTorch · NumPy/SciPy · pandas · SLURM / HPC
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1M8m13CzR96_zUocUAth6JA3UnEhs56Xn/view?usp=sharing)
+[LinkedIn] · [email]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
