@@ -1,8 +1,6 @@
-## Marina MJ Cozzolino
+## Marina Cozzolino
 
-MSc, University of Amsterdam. I work on multimodal deep learning for sensor
-fusion, specifically what happens to these models when input modalities
-degrade or drop out entirely.
+ML engineer · multimodal sensor fusion & robust perception · Zurich
 
 **MSc thesis** — Adaptive multimodal neural networks under missing modalities. Proposes a distributed multi-node multimodal system, operating under a shared compute budget, in which each level of absence is addressed by a dedicated mechanism: modality absence is compensated locally at each node, node loss is handled by masked cross-station fusion, and compute is distributed across modalities according to estimated per-modality informativeness. Trained across six model variants on the Snellius HPC cluster.
 [→ repo](https://github.com/MAJI-C/ada_mm_nn_missing_modalities)
