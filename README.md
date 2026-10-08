@@ -3,7 +3,7 @@
 ML engineer working on **multimodal sensor fusion and robust perception**: keeping models working when sensors degrade or drop out.
 
 - MSc Data Science, University of Amsterdam (2026)
-- 2 years in the sensor team at Nexxiot, Zurich: Python and SQL pipelines for IoT sensor time-series
+- 2 years in the sensor team at Nexxiot (Zurich) in data analysis and analytics engineering: Python and SQL pipelines for IoT sensor time-series.
 - Based in Zurich, Switzerland
 
 ## Featured project
